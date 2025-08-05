@@ -33,7 +33,7 @@ pip install scikit-learn== 1.4.2
 python hybrid.py
 ```
 
->📋 The following prints the results after evaluation:
+>📋 Evaluation:
 ```eval
 python evaluation.py
 ```
