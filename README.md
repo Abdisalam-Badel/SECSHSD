@@ -57,7 +57,7 @@ python faiss.py
 >📋 The hateful-words folder contains the hate lexicon, which includes two types of entries:
 
 - hate_lexicon.txt: Hateful words introduced to the LLM generally using separate standalone prompt.
-- Hate: Dataset-specific words introduced to the LLM with the classification prompt.
+- hate.txt: Dataset-specific words introduced to the LLM with the classification prompt.
   
 >📋 The dataset folder contains:
 
