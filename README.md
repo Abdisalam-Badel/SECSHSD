@@ -87,7 +87,17 @@ Our hybrid model achieves the following performance across the various models:
 >📋  This repository is actively maintained by **Abdisalam** **Badel**. For any inquiries, please contact him at fiicane121@gmail.com.
 
 
-
+If you think our work is helpful for your work and you use it, please cite it as follows:
+```bib
+@inproceedings{
+anonymous2025hate,
+title={Hate Speech Detection in Somali-English Code-Switched Texts},
+author={Anonymous},
+booktitle={The 14th CCF International Conference on Natural Language Processing and Chinese Computing},
+year={2025},
+url={https://openreview.net/forum?id=JvUL8QXikG}
+}
+```
 
 
 
