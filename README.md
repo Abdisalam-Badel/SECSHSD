@@ -28,7 +28,7 @@ pip install scikit-learn== 1.4.2
 
 ## Training and Evaluation
 
->📋 Our Model:
+>📋 The hybrid evaluation framework:
 ```eval
 python hybrid.py
 ```
