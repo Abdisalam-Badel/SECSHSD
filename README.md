@@ -88,7 +88,7 @@ Our hybrid model achieves the following performance across the various models:
 
 
 If you think our work is helpful for your work and you use it, please cite it as follows:
-```bib
+```
 @inproceedings{
 anonymous2025hate,
 title={Hate Speech Detection in Somali-English Code-Switched Texts},
