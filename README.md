@@ -5,9 +5,6 @@
 
 <!--- This repository is the official repository of:  [XXXXXXXXXX](https://arxiv.org/xxx/xxx). ---> 
 
->📋  Overall Architecture:
-<img src="assets/MMSA-github.png" width=700>
-
 ## Requirements
 
 >📋 Requirements to install for LLM evaluation:
@@ -47,16 +44,10 @@ python faiss.py
 >📋 Exchange the model name, for BERT: bert-base-uncased and for RoBERTa: roberta-base.
 
 
->📋 The below file contains a prompt we used to introduce general hateful Somali words to the LLM. We first use this prompt for the introduction, and later we use hateful words that are specific to the current dataset.
-
-``` Prompt_for_introducing_general_Somali_hateful_words_to_LLMs ```
-
-
 ## Data
 
->📋 The hateful-words folder contains the hate lexicon, which includes two types of entries:
+>📋 The hateful-words folder contains the hate lexicon, which includes:
 
-- hate_lexicon.txt: Hateful words introduced to the LLM generally using separate standalone prompt.
 - hate.txt: Hate words introduced to the LLM with the classification prompt.
   
 >📋 The dataset folder contains:
